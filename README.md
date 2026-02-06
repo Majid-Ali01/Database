@@ -28,12 +28,12 @@ It is created for learning and assignment purposes.
 - Practice database queries
 - Save and manage SQL work on GitHub
 
----
 
 ## 📌 How to Use
 1. Clone the repository
    ```bash
-   git clone https://github.com/Majid-Ali01/Database.git
+  git clone https://github.com/Majid-Ali01/Database.git
+
 
 
 
