@@ -32,7 +32,7 @@ It is created for learning and assignment purposes.
 ## 📌 How to Use
 1. Clone the repository
    ```bash
-  git clone https://github.com/Majid-Ali01/Database.git
+   https://github.com/Majid-Ali01/Database.git
 
 
 
