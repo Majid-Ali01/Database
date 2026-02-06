@@ -37,5 +37,4 @@ It is created for learning and assignment purposes.
 
 
 
-## 📂 Project Structure
 
